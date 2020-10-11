@@ -27,7 +27,7 @@ Load the root folder without compression
 
 ### How to use
 
-Agora é só acessar poolside.fm, esperar que o player inicie ou selecionar manualmente um dos rádios e clicando no canto superior sob a extensão, irá levá-lo para a página de pesquisa do youtube com a faixa pré-carregada pronta para ser salva .
+Now just access poolside.fm, wait for the player to start or manually select one of the radios and click on the top corner under the extension, it will change you to a youtube search page with a pre-loaded track ready to be saved.
 
 <br>
 <br>
