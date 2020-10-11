@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "PoolsideFM Save Music",
+  "version": "0.1",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://poolside.fm/"],
+      "js": ["content.js"]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "poolsideFM.png"
+  }
+}
