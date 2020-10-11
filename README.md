@@ -25,8 +25,6 @@ Open your chrome browser
 
 Load the root folder without compression
 
-<img src="/assets/ytdl-print.png" width="350" alt="printscreen">
-
 ### How to use
 
 Agora é só acessar poolside.fm, esperar que o player inicie ou selecionar manualmente um dos rádios e clicando no canto superior sob a extensão, irá levá-lo para a página de pesquisa do youtube com a faixa pré-carregada pronta para ser salva .
